@@ -30,7 +30,7 @@ The application consists of the following components:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/mcp-server.git
+   git clone https://github.com/hamidkhanjani/mcp-server.git
    cd mcp-server
    ```
 
